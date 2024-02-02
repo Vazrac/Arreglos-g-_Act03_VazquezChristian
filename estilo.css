@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(167, 106, 224);
+    text-align: center;
+}
+.titulo{
+    text-align: center, block;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(99, 5, 99);
+    width: 50%;
+    margin-left: 25%;
+}
